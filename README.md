@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
+* [Discription](#discriptions)
 
 ## Instructions
 
@@ -11,3 +12,11 @@ The starter project has some HTML and CSS styling to display a static version of
 To get started, open `js/app.js` and start building out the app's functionality
 
 For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+
+
+## Discriptions
+
+This is a multi-section landing page, with a dynamically updating navigational menu based on the amount of content that is added to the page.
+While navigating through the page, the section that is active in the viewport/closest to the top is distinguished from the other sections by a different style.
+Clicking on a navigation item will scroll to the appropriate section of the page.
+While scrolling the page and when a section is in the viewport, the corresponding section of top navigation item will be highlighted.
